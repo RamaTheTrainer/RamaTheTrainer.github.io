@@ -76,7 +76,7 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 var AppComponent = /** @class */ (function () {
     function AppComponent(ht) {
         this.ht = ht;
-        this.url = "http://localhost:5000";
+        this.url = "https://afternoon-sands-94699.herokuapp.com/";
         this.messages = [];
         this.onlineUsers = [];
         this.toUser = "";
